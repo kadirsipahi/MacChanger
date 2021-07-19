@@ -1,6 +1,6 @@
 ## MacChanger
 <strong>Projenin Özeti</strong>
-Debian/Ubuntu tabanlı işletim sistemleri için terminal üzerinden bu uygulama çalıştırılıp verilen iki adet input(arg) ile cihazın harici wifi kartı veya kendi wifi adaptörü için MAC adresi değiştirilmesini sağlar.
+<p>Debian/Ubuntu tabanlı işletim sistemleri için terminal üzerinden bu uygulama çalıştırılıp verilen iki adet input(arg) ile cihazın harici wifi kartı veya kendi wifi adaptörü için MAC adresi değiştirilmesini sağlar.</p>
 
 <strong>Uygulama içerisinde kullandığım kütüphaneler ve işlevlerinin özeti</strong><br>
   subprocess ve optparse kütüphaneleri kullanıldı;
