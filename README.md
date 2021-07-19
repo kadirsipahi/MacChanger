@@ -17,3 +17,8 @@
 #python my_mac_changer.py -i <İşlemin Yapılacağı Ethernet Arayüzü> -m <Yeni MAC Adresimiz>
 ## OR
 ##python3 my_mac_changer.py -i <İşlemin Yapılacağı Ethernet Arayüzü> -m <Yeni MAC Adresimiz>
+Some basic Git commands are:
+```
+git status
+git add
+git commit
