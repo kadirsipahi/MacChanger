@@ -12,8 +12,9 @@
   Argümanların kaydedilmesi için; "dest=interface", "help=interface to change" yani dest ve help kwargs kullanıldı.</p><br>
   
 <strong>Uygulama nasıl çalıştırılır ?</strong><br>
-<p>Terminal/Command Prompt üzerinden uygulamanın bulunduğu dizine gidilir,</p>
+<p>Terminal/Command Prompt üzerinden uygulamanın bulunduğu dizine gidilir,
 python veya python3 kullanarak uygulamamızı başlatabiliriz.<br>
+
 ```
 python my_mac_changer.py -i <İşlemin Yapılacağı Ethernet Arayüzü> -m <Yeni MAC Adresimiz>
 
