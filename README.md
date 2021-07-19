@@ -13,12 +13,8 @@
   
 <strong>Uygulama nasıl çalıştırılır ?</strong><br>
 <p>Terminal/Command Prompt üzerinden uygulamanın bulunduğu dizine gidilir,</p>
-
+python veya python3 kullanarak uygulamamızı başlatabiliriz.<br>
 ```
 python my_mac_changer.py -i <İşlemin Yapılacağı Ethernet Arayüzü> -m <Yeni MAC Adresimiz>
 
 python3 my_mac_changer.py -i <İşlemin Yapılacağı Ethernet Arayüzü> -m <Yeni MAC Adresimiz>
-
-
-
-
