@@ -2,7 +2,7 @@
 <strong>Projenin Özeti</strong>
 <p>Debian/Ubuntu tabanlı işletim sistemleri için terminal üzerinden bu uygulama çalıştırılıp verilen iki adet input(arg) ile cihazın harici/dahili wifi kartı veya kendi ethernet adaptörü için MAC adresi değiştirilmesini sağlar.</p>
 
-**<strong>Uygulama içerisinde kullandığım kütüphaneler ve işlevlerinin özeti</strong><br>
+**<strong>Uygulama içerisinde kullandığım kütüphaneler ve işlevlerinin özeti</strong><br>**
   <p>subprocess, optparse ve regex101(re) kütüphaneleri kullanıldı;<br>
 <p>• subproccess > Uygulama içerisinde yazılacak kodu terminalde (veya Command Prompt) çalıştırarak bilgisayarımıza komut vermeye yarıyor. <br>
   Örneğin "ls" komutunu uygulama içerisinde çağırabiliyor ve çıktıları yazdırabiliyoruz.<br>
@@ -12,7 +12,7 @@
   Argümanların kaydedilmesi için; "dest=interface", "help=interface to change" yani dest ve help kwargs kullanıldı.<br>
 <p>• regex101 > Çalıştırdığımız "ifconfig" komutunun verdiği sonuçların içerisinden MAC adresinin şablonunu tespit etmek amacıyla kullandık.<br>
   
-**<strong>Uygulama nasıl çalıştırılır ?</strong><br>
+**<strong>Uygulama nasıl çalıştırılır ?</strong><br>**
 <p>Terminal/Command Prompt üzerinden uygulamanın bulunduğu dizine gidilir,
 python veya python3 kullanarak uygulamamızı başlatabiliriz.<br>
 
