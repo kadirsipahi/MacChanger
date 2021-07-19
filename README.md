@@ -14,10 +14,13 @@
 <strong>Uygulama nasıl çalıştırılır ?</strong><br>
 <p>Terminal/Command Prompt üzerinden uygulamanın bulunduğu dizine gidilir,</p>
 
-Some basic Git commands are:
 ```
 python my_mac_changer.py -i <İşlemin Yapılacağı Ethernet Arayüzü> -m <Yeni MAC Adresimiz>
 
-Some basic Git commands are:
-```
+YADA
+
 python3 my_mac_changer.py -i <İşlemin Yapılacağı Ethernet Arayüzü> -m <Yeni MAC Adresimiz>
+
+
+
+
