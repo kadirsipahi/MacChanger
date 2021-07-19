@@ -9,7 +9,7 @@
 <p>• optparse > Terminal/Command Prompt üzerinde kullanıcıdan input alma işlemi için kullanıldı.
 <p>  Kullanıcıdan alınan argümanların sistem üzerinde uygulanıp kaydedilebilmesi için kullanıldı.
  <p> Bu kütüphanenin kullanılabilmesi için bir obje oluşturma şartı vardır. Uygulama içerisinde bu objeyi "parse_pbject" olarak tanımladım.
- <p> Argümanların kaydedilmesi için; "dest=interface", "help=interface to change" yani dest ve help kwargs kullanıldı.
+ <p> Argümanların kaydedilmesi için; "dest=interface", "help=interface to change" yani dest ve help kwargs kullanıldı.</p>
   
 <strong>Uygulama nasıl çalıştırılır ?</strong><br>
 Terminal/Command Prompt üzerinden uygulamanın bulunduğu dizine gidilir,
