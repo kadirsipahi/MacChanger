@@ -12,15 +12,15 @@
   Argümanların kaydedilmesi için; "dest=interface", "help=interface to change" yani dest ve help kwargs kullanıldı.<br>
 <p>• regex101 > Çalıştırdığımız "ifconfig" komutunun verdiği sonuçların içerisinden MAC adresinin şablonunu tespit etmek amacıyla kullandık.<br>
   
+<strong>Projeyi Geliştirenler:</strong><br>
+<strong><i>Kadir SİPAHİ</i></strong>
+
 *<strong>Uygulama nasıl çalıştırılır ?</strong><br>*
 <p>Terminal/Command Prompt üzerinden uygulamanın bulunduğu dizine gidilir,
 python veya python3 kullanarak uygulamamızı başlatabiliriz.<br>
   
-<strong>Projeyi Geliştirenler:</strong><br>
-<strong><i>Kadir SİPAHİ</i></strong>
 
 ```
 python my_mac_changer.py -i <İşlemin Yapılacağı Ethernet Arayüzü> -m <Yeni MAC Adresimiz>
 
 python3 my_mac_changer.py -i <İşlemin Yapılacağı Ethernet Arayüzü> -m <Yeni MAC Adresimiz>
-
