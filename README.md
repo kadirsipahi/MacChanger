@@ -3,7 +3,7 @@
 <p>Debian/Ubuntu tabanlı işletim sistemleri için terminal üzerinden bu uygulama çalıştırılıp verilen iki adet input(arg) ile cihazın harici/dahili wifi kartı veya kendi ethernet adaptörü için MAC adresi değiştirilmesini sağlar.</p>
 
 <strong>Uygulama içerisinde kullandığım kütüphaneler ve işlevlerinin özeti</strong><br>
-  subprocess ve optparse kütüphaneleri kullanıldı;
+  <p>subprocess ve optparse kütüphaneleri kullanıldı;
 • subproccess > Uygulama içerisinde yazılacak kodu terminalde (veya Command Prompt) çalıştırarak bilgisayarımıza komut vermeye yarıyor. 
   Örneğin "ls" komutunu uygulama içerisinde çağırabiliyor ve çıktıları yazdırabiliyoruz.
 • optparse > Terminal/Command Prompt üzerinde kullanıcıdan input alma işlemi için kullanıldı.
