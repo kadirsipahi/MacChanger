@@ -9,7 +9,7 @@
 <p>• optparse > Terminal/Command Prompt üzerinde kullanıcıdan input alma işlemi için kullanıldı.<br>
   Kullanıcıdan alınan argümanların sistem üzerinde uygulanıp kaydedilebilmesi için kullanıldı.<br>
   Bu kütüphanenin kullanılabilmesi için bir obje oluşturma şartı vardır. Uygulama içerisinde bu objeyi "parse_pbject" olarak tanımladım.<br>
-  Argümanların kaydedilmesi için; "dest=interface", "help=interface to change" yani dest ve help kwargs kullanıldı.</p><br>
+  Argümanların kaydedilmesi için; "dest=interface", "help=interface to change" yani dest ve help kwargs kullanıldı.<br>
 <p>• regex101 > Çalıştırdığımız "ifconfig" komutunun verdiği sonuçların içerisinden MAC adresinin şablonunu tespit etmek amacıyla kullandık.<br>
   
 <strong>Uygulama nasıl çalıştırılır ?</strong><br>
