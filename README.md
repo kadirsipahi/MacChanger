@@ -18,7 +18,6 @@ Some basic Git commands are:
 ```
 python my_mac_changer.py -i <İşlemin Yapılacağı Ethernet Arayüzü> -m <Yeni MAC Adresimiz>
 
-OR
-
+Some basic Git commands are:
+```
 python3 my_mac_changer.py -i <İşlemin Yapılacağı Ethernet Arayüzü> -m <Yeni MAC Adresimiz>
-
