@@ -21,6 +21,6 @@ python veya python3 kullanarak uygulamamızı başlatabiliriz.<br>
   
 
 ```
-python my_mac_changer.py -i <İşlemin Yapılacağı Ethernet Arayüzü> -m <Yeni MAC Adresimiz>
+$ python my_mac_changer.py -i <İşlemin Yapılacağı Ethernet Arayüzü> -m <Yeni MAC Adresimiz>
 
-python3 my_mac_changer.py -i <İşlemin Yapılacağı Ethernet Arayüzü> -m <Yeni MAC Adresimiz>
+$ python3 my_mac_changer.py -i <İşlemin Yapılacağı Ethernet Arayüzü> -m <Yeni MAC Adresimiz>
